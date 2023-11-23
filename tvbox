@@ -1,4 +1,4 @@
-央视,#genre#
+央视新闻,#genre#
 CCTV-13新闻1,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001328/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-13新闻2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
 CCTV-13新闻3,http://36.155.98.21/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=3
@@ -7,6 +7,7 @@ CCTV-13新闻5,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV-13新闻6,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 CCTV-13新闻7,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
 CCTV-13新闻8,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
+央视其它,#genre#
 CCTV-1综合1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV-1综合2,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV-2财经1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
@@ -25,7 +26,7 @@ CCTV-5+体育赛事3,https://live.goodiptv.club/api/cqyx.php?id=cctv5SportHD
 CCTV-7国防军事,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
 CCTV-8电视剧,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
 CCTV-8电视剧,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
-港澳台,#genre#
+香港,#genre#
 凤凰卫视中文台1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
 凤凰卫视中文台2,http://210.210.155.37/uq2663/h/h157/index2.m3u8
 凤凰卫视中文台3,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
@@ -44,6 +45,7 @@ CCTV-8电视剧,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224
 翡翠台3,http://r.jdshipin.com/62WM7
 翡翠台4,http://r.jdshipin.com/n90gt
 明珠台,https://pi.0472.org/tv/mzt.php?auth=231110
+台湾,#genre#
 民视新闻台1,http://tv.redrainl.site:9500/live.m3u8?c=01
 民视新闻台2,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 中天新闻1,http://flv3948069e.live.126.net/live/dabadqdszbtest78612.flv
