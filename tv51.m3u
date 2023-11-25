@@ -127,8 +127,16 @@ http://210.210.155.37/qwr9ew/s/s21/01.m3u8
 http://php.17186.eu.org/phtv/fhhk.m3u8
 #EXTINF:-1 group-title="香港频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png",凤凰资讯台
 http://php.17186.eu.org/phtv/fhzx.m3u8
-#EXTINF:-1 group-title="香港频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png",香港翡翠台
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" tvg-id="126" tvg-name="翡翠台" group-title="香港频道",香港翡翠台
+http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" tvg-id="126" tvg-name="翡翠台" group-title="香港频道",香港翡翠台
+https://pi.0472.org/tv/fct.php?auth=231110
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" tvg-id="126" tvg-name="翡翠台" group-title="香港频道",香港翡翠台
 http://r.jdshipin.com/62WM7
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" tvg-id="126" tvg-name="翡翠台" group-title="香港频道",香港翡翠台
+http://r.jdshipin.com/n90gt
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" tvg-id="127" tvg-name="明珠台" group-title="香港频道",香港明珠台
+https://pi.0472.org/tv/mzt.php?auth=231110
 #EXTINF:-1 group-title="台湾卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png",TVBS新闻台
 http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 #EXTINF:-1 group-title="台湾卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png",TVBS新闻台
